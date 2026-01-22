@@ -1,1 +1,40 @@
+# Build
+bin/
+obj/
 
+# Visual Studio / VSCode
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# Temporary
+*.tmp
+*.temp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# JetBrains Rider
+.idea/
+*.DotSettings.user
